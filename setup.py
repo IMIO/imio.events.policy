@@ -58,7 +58,7 @@ setup(
         "imio.events.core",
         "imio.smartweb.locales",
         "collective.autopublishing",
-        "collective.bigbang",
+        "collective.big.bang",
     ],
     extras_require={
         "test": [
