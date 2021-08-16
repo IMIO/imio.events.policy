@@ -6,7 +6,7 @@
     xmlns:zcml="http://namespaces.zope.org/zcml"
     i18n_domain="imio.smartweb">
 
-  <include package="collective.bigbang" />
+  <include package="collective.big.bang" />
   <include package="plone.restapi" />
 
   <include package="imio.smartweb.locales" />
