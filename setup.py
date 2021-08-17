@@ -55,10 +55,13 @@ setup(
         "plone.api>=1.8.4",
         "plone.restapi",
         "plone.app.dexterity",
-        "imio.events.core",
-        "imio.smartweb.locales",
         "collective.autopublishing",
         "collective.big.bang",
+        "eea.facetednavigation",
+        "pas.plugins.imio",
+        "imio.gdpr",
+        "imio.events.core",
+        "imio.smartweb.locales",
     ],
     extras_require={
         "test": [

@@ -2,8 +2,10 @@
 <metadata>
   <version>1000</version>
   <dependencies>
-    <dependency>profile-collective.autopublishing:default</dependency>
-    <dependency>profile-imio.events.core:default</dependency>
     <dependency>profile-plone.restapi:default</dependency>
+    <dependency>profile-collective.autopublishing:default</dependency>
+    <dependency>profile-eea.facetednavigation:default</dependency>
+    <dependency>profile-imio.gdpr:default</dependency>
+    <dependency>profile-imio.events.core:default</dependency>
   </dependencies>
 </metadata>
