@@ -57,6 +57,7 @@ setup(
         "plone.app.dexterity",
         "collective.autopublishing",
         "collective.big.bang",
+        "collective.z3cform.select2",
         "eea.facetednavigation",
         "pas.plugins.imio",
         "imio.gdpr",
