@@ -5,6 +5,7 @@
     <dependency>profile-plone.app.contenttypes:plone-content</dependency>
     <dependency>profile-plone.restapi:default</dependency>
     <dependency>profile-collective.autopublishing:default</dependency>
+    <dependency>profile-collective.solr:default</dependency>
     <dependency>profile-eea.facetednavigation:default</dependency>
     <dependency>profile-imio.gdpr:default</dependency>
     <dependency>profile-imio.events.core:default</dependency>

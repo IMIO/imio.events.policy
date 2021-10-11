@@ -9,4 +9,8 @@ Disallow: /
     </value>
   </record>
 
+  <record name="collective.solr.active">
+    <value>True</value>
+  </record>
+
 </registry>
