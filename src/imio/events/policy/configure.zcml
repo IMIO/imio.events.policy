@@ -6,6 +6,9 @@
     xmlns:zcml="http://namespaces.zope.org/zcml"
     i18n_domain="imio.smartweb">
 
+  <include package="imio.smartweb.locales" />
+  <include package="imio.events.core" />
+
   <include package="plone.restapi" />
   <include package="collective.autopublishing" />
   <include package="collective.big.bang" />
@@ -14,9 +17,6 @@
   <include package="eea.facetednavigation" />
   <include package="pas.plugins.imio" />
   <include package="imio.gdpr" />
-
-  <include package="imio.smartweb.locales" />
-  <include package="imio.events.core" />
 
   <include file="permissions.zcml" />
   <include package=".browser" />
