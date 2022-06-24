@@ -44,11 +44,6 @@
       name="imio.events.policy-hiddenprofiles"
       />
 
-  <utility
-      factory=".setuphandlers.HiddenProducts"
-      name="imio.events.policy-hiddenproducts"
-      />
-
   <subscriber
        for="collective.timedevents.interfaces.IIntervalTicks15Event"
        handler="collective.autopublishing.eventhandler.autopublish_handler" />
