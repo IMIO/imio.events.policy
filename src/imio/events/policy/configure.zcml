@@ -10,6 +10,7 @@
   <include package="imio.events.core" />
 
   <include package="plone.restapi" />
+  <include package="plone.app.multilingual" />
   <include package="collective.autopublishing" />
   <include package="collective.big.bang" />
   <include package="collective.solr" />
@@ -20,6 +21,7 @@
 
   <include file="permissions.zcml" />
   <include package=".browser" />
+  <include package=".upgrades" />
 
   <genericsetup:registerProfile
       name="default"
