@@ -36,6 +36,10 @@ class TestSetup(unittest.TestCase):
         self.assertIn("fr", self.portal.objectIds())
         self.assertIn("nl", self.portal.objectIds())
 
+        # no LIF folders
+        self.assertEqual(len(self.portal.fr.objectIds()), 0)
+        self.assertEqual(len(self.portal.nl.objectIds()), 0)
+
         setRoles(self.portal, TEST_USER_ID, ["Manager"])
         entity = api.content.create(
             container=self.portal,

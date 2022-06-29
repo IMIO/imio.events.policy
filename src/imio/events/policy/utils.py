@@ -31,3 +31,9 @@ def setup_multilingual_site(context):
         set_recursive_language(obj, "fr")
         api.content.move(obj, target=fr_folder)
         logger.info(f"Moved {brain.getId} content to 'fr' folder.")
+
+    for brain in api.content.find(portal_type="LIF"):
+        lif_id = brain.getId
+        obj = brain.getObject()
+        api.content.delete(obj)
+        logger.info(f"Deleted LIF folder {lif_id}.")
