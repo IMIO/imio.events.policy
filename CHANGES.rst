@@ -2,8 +2,8 @@ Changelog
 =========
 
 
-1.0a2 (unreleased)
-------------------
+1.0 (2022-11-15)
+----------------
 
 - Add available languages to prepare for multilingual
   [laulaz]
