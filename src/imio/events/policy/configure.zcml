@@ -12,6 +12,7 @@
   <include package="plone.restapi" />
   <include package="collective.autopublishing" />
   <include package="collective.big.bang" />
+  <include package="collective.js.jqueryui" />
   <include package="collective.solr" />
   <include package="collective.z3cform.select2.widget" file="adapters.zcml" />
   <include package="eea.facetednavigation" />
