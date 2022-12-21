@@ -5,7 +5,8 @@ Changelog
 1.1.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Remove available languages (we don't need them anymore)
+  [laulaz]
 
 
 1.1 (2022-12-20)

@@ -3,17 +3,6 @@
     xmlns:i18n="http://xml.zope.org/namespaces/i18n"
     i18n:domain="imio.smartweb">
 
-  <record name="plone.available_languages"
-          interface="Products.CMFPlone.interfaces.controlpanel.ILanguageSchema"
-          field="available_languages">
-    <value>
-      <element>fr</element>
-      <element>nl</element>
-      <element>de</element>
-      <element>en</element>
-    </value>
-  </record>
-
   <record name="plone.robots_txt" interface="Products.CMFPlone.interfaces.controlpanel.ISiteSchema" field="robots_txt">
     <value>User-agent: *
 Disallow: /
