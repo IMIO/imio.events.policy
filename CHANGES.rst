@@ -5,6 +5,9 @@ Changelog
 1.1.1 (unreleased)
 ------------------
 
+- Remove obsolete TinyMCE override
+  [laulaz]
+
 - Remove available languages (we don't need them anymore)
   [laulaz]
 
