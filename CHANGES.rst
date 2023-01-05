@@ -5,6 +5,9 @@ Changelog
 1.1.1 (unreleased)
 ------------------
 
+- Install and configure autopublishing (with 15 min tick subscriber)
+  [boulch]
+
 - Remove obsolete TinyMCE override
   [laulaz]
 
