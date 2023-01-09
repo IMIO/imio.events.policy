@@ -20,7 +20,10 @@
   <include package="imio.gdpr" />
 
   <include file="permissions.zcml" />
+  <include file="subscribers.zcml" />
+
   <include package=".browser" />
+  <include package=".upgrades" />
 
   <genericsetup:registerProfile
       name="default"
