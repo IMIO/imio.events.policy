@@ -13,7 +13,6 @@ import imio.events.policy
 
 
 class ImioEventsPolicyLayer(PloneSandboxLayer):
-
     defaultBases = (PLONE_APP_CONTENTTYPES_FIXTURE,)
 
     def setUpZope(self, app, configurationContext):
