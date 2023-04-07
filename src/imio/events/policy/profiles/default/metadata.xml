@@ -6,6 +6,7 @@
     <dependency>profile-plone.restapi:default</dependency>
     <dependency>profile-pas.plugins.imio:default</dependency>
     <dependency>profile-collective.autopublishing:default</dependency>
+    <dependency>profile-collective.messagesviewlet:default</dependency>
     <dependency>profile-collective.solr:default</dependency>
     <dependency>profile-eea.facetednavigation:default</dependency>
     <dependency>profile-imio.gdpr:default</dependency>

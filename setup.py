@@ -58,6 +58,7 @@ setup(
         "collective.autopublishing",
         "collective.big.bang",
         "collective.js.jqueryui",  # TODO : plone6 : remove
+        "collective.messagesviewlet",
         "collective.solr",
         "collective.z3cform.select2",
         "eea.facetednavigation",
