@@ -5,6 +5,9 @@ Changelog
 1.1.3 (unreleased)
 ------------------
 
+- WEB-3954 : Hide cropping action on Image type
+  [boulch]
+
 - Migrate to Plone 6.0.4
   [boulch]
 
