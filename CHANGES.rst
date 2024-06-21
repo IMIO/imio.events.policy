@@ -5,7 +5,8 @@ Changelog
 1.1.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- GHA tests on Python 3.8 3.9 and 3.10
+  [remdub]
 
 
 1.1.3 (2023-10-09)
