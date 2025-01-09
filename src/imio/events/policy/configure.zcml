@@ -9,6 +9,7 @@
   <include package="imio.smartweb.locales" />
   <include package="imio.events.core" />
 
+  <include package="plone.app.caching" />
   <include package="plone.restapi" />
   <include package="collective.autopublishing" />
   <include package="collective.big.bang" />
