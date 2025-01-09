@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.4 (unreleased)
+1.1.4 (2025-01-09)
 ------------------
 
 - WEB-4153: Set moderateCaching for imio.events.core.rest
