@@ -27,6 +27,14 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
+    <genericsetup:registerProfile
+      name="upgrade_1003_to_1004"
+      title="Upgrade policy 1003 to 1004"
+      directory="profiles/1003_to_1004"
+      description="Increase caching values"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
   <genericsetup:upgradeSteps
       source="1000"
       destination="1001"
@@ -60,6 +68,16 @@
     <genericsetup:upgradeDepends
         title="Set moderateCaching for imio.events.core.rest"
         import_profile="imio.events.policy.upgrades:upgrade_1002_to_1003"
+        />
+  </genericsetup:upgradeSteps>
+
+  <genericsetup:upgradeSteps
+      source="1003"
+      destination="1004"
+      profile="imio.events.policy:default">
+    <genericsetup:upgradeDepends
+        title="Increase caching values"
+        import_profile="imio.events.policy.upgrades:upgrade_1003_to_1004"
         />
   </genericsetup:upgradeSteps>
 

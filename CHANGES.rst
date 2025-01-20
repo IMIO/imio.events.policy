@@ -5,7 +5,8 @@ Changelog
 1.1.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- WEB-4153: Increase caching values
+  [remdub]
 
 
 1.1.4 (2025-01-09)
