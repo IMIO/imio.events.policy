@@ -5,6 +5,12 @@ Changelog
 1.1.6 (unreleased)
 ------------------
 
+- Upgrade dev environment to Plone 6.1.1
+  [remdub]
+
+- Update Python classifiers to be compatible with Python 3.13
+  [remdub]
+
 - Update Python classifiers to be compatible with Python 3.12
   [remdub]
 
