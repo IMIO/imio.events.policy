@@ -1,1 +1,2 @@
+horse-with-no-namespace==20250705.0
 -r https://dist.plone.org/release/6.1.1/requirements.txt
