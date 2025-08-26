@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.7 (unreleased)
+1.1.7 (2025-08-26)
 ------------------
 
 - Add upgrade step to install kimug.
