@@ -5,7 +5,7 @@
     <dependency>profile-plone.app.contenttypes:plone-content</dependency>
     <dependency>profile-plone.app.caching:default</dependency>
     <dependency>profile-plone.restapi:default</dependency>
-    <dependency>profile-pas.plugins.imio:default</dependency>
+    <dependency>profile-pas.plugins.kimug:default</dependency>
     <dependency>profile-collective.autopublishing:default</dependency>
     <dependency>profile-collective.messagesviewlet:default</dependency>
     <dependency>profile-collective.solr:default</dependency>
