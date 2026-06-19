@@ -5,6 +5,9 @@ Changelog
 1.1.8 (unreleased)
 ------------------
 
+- KEYC-77: Remove pas.plugins.imio from dependencies
+  [remdub]
+
 - Migrate to Plone 6.1.3
   [boulch]
 

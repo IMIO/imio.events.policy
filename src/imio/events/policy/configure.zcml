@@ -18,7 +18,6 @@
   <include package="collective.solr" />
   <include package="collective.z3cform.select2.widget" file="adapters.zcml" />
   <include package="eea.facetednavigation" />
-  <include package="pas.plugins.imio" />
   <include package="pas.plugins.kimug" />
   <include package="imio.gdpr" />
 
