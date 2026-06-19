@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Setup tests for this package."""
+
 from imio.events.policy.testing import (
     IMIO_EVENTS_POLICY_INTEGRATION_TESTING,
 )  # noqa: E501
