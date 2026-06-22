@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <version>1005</version>
+  <version>1006</version>
   <dependencies>
     <dependency>profile-plone.app.contenttypes:plone-content</dependency>
     <dependency>profile-plone.app.caching:default</dependency>
@@ -10,7 +10,8 @@
     <dependency>profile-collective.messagesviewlet:default</dependency>
     <dependency>profile-collective.solr:default</dependency>
     <dependency>profile-eea.facetednavigation:default</dependency>
-    <dependency>profile-imio.gdpr:default</dependency>
+    <dependency>profile-imio.gdpr:default</dependency>    
     <dependency>profile-imio.events.core:default</dependency>
+    <dependency>profile-imio.omnia.tinymce:default</dependency>
   </dependencies>
 </metadata>

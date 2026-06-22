@@ -5,6 +5,8 @@ Changelog
 1.1.8 (unreleased)
 ------------------
 
+- OIA-106 : Install and use imio.omnia.tinymce
+  [boulch]
 
 - Migrate to Plone 6.1.4
   [boulch]

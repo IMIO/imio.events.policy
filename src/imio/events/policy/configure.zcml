@@ -21,6 +21,7 @@
   <include package="pas.plugins.imio" />
   <include package="pas.plugins.kimug" />
   <include package="imio.gdpr" />
+  <include package="imio.omnia.tinymce" />
 
   <include file="permissions.zcml" />
   <include file="subscribers.zcml" />
