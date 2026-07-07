@@ -5,6 +5,9 @@ Changelog
 1.1.9 (unreleased)
 ------------------
 
+- Update to Plone 6.1.5 and buidlout 5-x versions.
+  [boulch]
+
 - OIA-106 : Install and use imio.omnia.tinymce
   [boulch]
 
