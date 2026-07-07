@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.8 (unreleased)
+1.1.9 (unreleased)
 ------------------
 
 - OIA-106 : Install and use imio.omnia.tinymce
@@ -10,6 +10,13 @@ Changelog
 
 - Migrate to Plone 6.1.4
   [boulch]
+
+
+1.1.8 (2026-06-19)
+------------------
+
+- KEYC-77: Remove pas.plugins.imio from dependencies
+  [remdub]
 
 - Migrate to Plone 6.1.3
   [boulch]

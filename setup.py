@@ -4,7 +4,6 @@
 from setuptools import find_packages
 from setuptools import setup
 
-
 long_description = "\n\n".join(
     [
         open("README.rst").read(),
@@ -16,7 +15,7 @@ long_description = "\n\n".join(
 
 setup(
     name="imio.events.policy",
-    version="1.1.8.dev0",
+    version="1.1.9.dev0",
     description="Policies to setup imio.events",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
@@ -66,7 +65,6 @@ setup(
         "collective.solr",
         "collective.z3cform.select2",
         "eea.facetednavigation",
-        "pas.plugins.imio",
         "pas.plugins.kimug",
         "imio.gdpr",
         "imio.events.core",
