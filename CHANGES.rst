@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.9 (unreleased)
+1.1.9 (2026-07-07)
 ------------------
 
 - Update to Plone 6.1.5 and buidlout 5-x versions.
