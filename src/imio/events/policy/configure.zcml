@@ -20,6 +20,7 @@
   <include package="eea.facetednavigation" />
   <include package="pas.plugins.kimug" />
   <include package="imio.gdpr" />
+  <include package="imio.omnia.tinymce" />
 
   <include file="permissions.zcml" />
   <include file="subscribers.zcml" />

@@ -5,7 +5,11 @@ Changelog
 1.1.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- OIA-106 : Install and use imio.omnia.tinymce
+  [boulch]
+
+- Migrate to Plone 6.1.4
+  [boulch]
 
 
 1.1.8 (2026-06-19)

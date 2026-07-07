@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+from imio.events.policy.utils import install_omnia_tinymce
 from imio.events.policy.utils import remove_unused_contents
 from plone import api
 from Products.CMFPlone.interfaces import INonInstallable
@@ -29,6 +30,7 @@ def post_install(context):
     """Post install script"""
     portal = api.portal.get()
     remove_unused_contents(portal)
+    install_omnia_tinymce()
 
 
 def uninstall(context):

@@ -68,6 +68,7 @@ setup(
         "pas.plugins.kimug",
         "imio.gdpr",
         "imio.events.core",
+        "imio.omnia.tinymce",
         "imio.smartweb.locales",
     ],
     extras_require={
