@@ -14,7 +14,7 @@ long_description = "\n\n".join(
 
 setup(
     name="imio.events.policy",
-    version="2.0.0",
+    version="2.0.1.dev0",
     description="Policies to setup imio.events",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
